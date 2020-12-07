@@ -4,7 +4,6 @@ TODO LIST:
 - Import Tag Color System - If needed
 - Create a light theme version
 - Refine elements as required
-- color hyperlinks a light blue
 
 */
 
@@ -18,6 +17,7 @@ TODO LIST:
     --font-c: #c9c8ca;
     --font-dark-c: rgba(240, 240, 239, .6);
     --font-background-c: #aaa;
+    --main-link-c:rgb(87, 135, 163);
 
     --font-red-c: #c5272d;
     --font-orange-c:#bd5113;
@@ -36,7 +36,7 @@ TODO LIST:
     --bold-font-weight: 600;
     --sidebar-width: 240px;
     --link-image-size:32px;
-    --todo-color:rgb(111, 51, 179);
+    --todo-color:rgb(112, 79, 150);
     --todo-check-color:rgb(200,200,200);
     --checkbox-size:1.5em;
 }
