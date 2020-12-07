@@ -1,6 +1,12 @@
 /*Originally cloned from https://github.com/ethomasv/RemNoteTheme
 
-
+TODO LIST:
+- Import Tag Color System - If needed
+- Create a light theme version
+- Refine elements as required
+- color hyperlinks a light blue
+- color checkboxes differently
+- copy root variables into README so that users can modify as required (include !important keyword and test that it overrides correctly)
 
 */
 
