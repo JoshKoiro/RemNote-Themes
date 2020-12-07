@@ -38,6 +38,7 @@ TODO LIST:
     --link-image-size:32px;
     --todo-color:rgb(111, 51, 179);
     --todo-check-color:rgb(200,200,200);
+    --checkbox-size:1.5em;
 }
 
 /*Remove all Scrollbars*/
@@ -2210,7 +2211,7 @@ div::-webkit-scrollbar {
         transition-delay: 0.05s;
         border: 2px solid var(--secondary-background-c);
         box-shadow: rgb(40, 40, 40, 1) 0px 0px 2px 1px;
-        content: "✔";
+        content:"✔";
         border-radius: 3px;
         transform: scale(1);
         visibility: visible;
@@ -2245,10 +2246,10 @@ div::-webkit-scrollbar {
     input[type=checkbox] {
       width: 15px;
       height: 0px;
-      margin-top: 4px;
+      margin-top: 2px;
       margin-right: 15px;
       cursor: pointer;
-      font-size: 1.5em;
+      font-size:var(--checkbox-size);
       visibility: hidden;
     }
 
@@ -2257,8 +2258,8 @@ div::-webkit-scrollbar {
       text-align: center;
       display: inline-block;
       padding: 0px;
-      width: 1.6em;
-      height: 1.6em;
+      width:var(--checkbox-size);
+      height: var(--checkbox-size);
       visibility: visible;
       border: 2px solid rgb(100, 100, 100);
       box-shadow: rgb(35, 35, 35, 1) 0px 0px 4px 1px inset;
@@ -2277,7 +2278,7 @@ div::-webkit-scrollbar {
       transition-delay: 0.05s;
       border: 2px solid var(--todo-color);
       box-shadow: rgb(30, 30, 30, 1) 0px 0px 4px 1px;
-      content: "✔";
+      content:"✔";
     }
 
     #homepage #content #document-sidebar #DocumentationList .document-list-item__container .documentListHeader .folder:hover,
