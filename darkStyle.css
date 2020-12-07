@@ -40,6 +40,11 @@ TODO LIST:
     --link-image-size:32px;
 }
 
+/*Remove all Scrollbars*/
+div::-webkit-scrollbar {
+	opacity:0;
+}
+
 .LinkNode img {
     width:var(--link-image-size);
     height:var(--link-image-size);
