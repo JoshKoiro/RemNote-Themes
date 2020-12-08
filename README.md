@@ -4,7 +4,8 @@ Custom Themes for RemNote
 ## Dark Theme for RemNote
 The first theme in this repo is a dark theme for RemNote based on the original theme created at https://github.com/ethomasv/RemNoteTheme
 
-![dark theme](/screenshots/dark theme.png)
+
+![dark theme](https://github.com/JoshKoiro/RemNote-Theme/blob/main/screenshots/darkTheme.png)
 
 ### Installation
 Paste the follow code into a new blank CSS block on the Custom CSS page of your RemNote to get the latest updates:
@@ -46,7 +47,8 @@ If you would like to customize the css variables copy the code below and modify 
 ## Light "Roam" Theme for RemNote
 The second theme is a light style based heavily on Roam's base theme.
 
-![light theme](/screenshots/light theme.png)
+
+![light theme](https://github.com/JoshKoiro/RemNote-Theme/blob/main/screenshots/lightTheme.png)
 
 ### Installation
 Paste the follow code into a new blank CSS block on the Custom CSS page of your RemNote to get the latest updates:
