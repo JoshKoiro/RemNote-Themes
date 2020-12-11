@@ -192,8 +192,8 @@ div::-webkit-scrollbar {
     }
 
     #hierarchy-editor .rem-header--1 {
-        font-size: 18px;
-        font-weight: var(--focus-font-weight);
+        font-size: 24px;
+        font-weight: var(--bold-font-weight);
         background-color: transparent;
         letter-spacing: var(--bold-font-spacing);
     }
@@ -721,7 +721,7 @@ div::-webkit-scrollbar {
 
     #hierarchy-editor .rem-header--3 {
         font-size: 15px;
-        font-weight: var(--focus-font-weight);
+        font-weight: var(--bold-font-weight);
         letter-spacing: var(--semiwide-font-spacing);
     }
 
@@ -733,8 +733,8 @@ div::-webkit-scrollbar {
     }
 
     #hierarchy-editor .rem-header--2 {
-        font-weight: var(--focus-font-weight);
-        font-size: 17px;
+        font-weight: var(--bold-font-weight);
+        font-size: 20px;
     }
 
     #hierarchy-editor .TreeNode {
@@ -838,7 +838,7 @@ div::-webkit-scrollbar {
 
     #document #actionRequiredDocumentTitle,
     #document .document-title {
-        font-size: 32px;
+        font-size: 36px;
         letter-spacing: var(--bold-font-spacing);
         color: var(--font-c);
         font-weight: var(--bold-font-weight);
