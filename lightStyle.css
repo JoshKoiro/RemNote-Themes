@@ -45,8 +45,6 @@ Import font-family below:
     --checkbox-size:1.5em;
 }
 
-@import url('https://joshkoiro.github.io/RemNote-Theme/ipadStyle.css');
-
 /*right side pane*/
 .multiple-windows__document:nth-child(2),.multiple-windows__document:nth-child(2) > #document {
     background-color:var(--right-pane-background-c);

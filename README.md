@@ -100,3 +100,8 @@ uncomment and replace the @import link to modify the font face.
     --checkbox-size:1.5em;
 }
 ```
+
+## IPad Version
+If you are planning to use RemNote on an iPad or tablet device, I also created a modification to the two themes here:
+`@import url('https://joshkoiro.github.io/RemNote-Theme/ipadStyle.css');`
+Create another blank CSS block in remnote and paste this in under your main dark/light theme.

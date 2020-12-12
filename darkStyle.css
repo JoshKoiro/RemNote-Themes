@@ -41,8 +41,6 @@ TODO LIST:
     --checkbox-size:1.5em;
 }
 
-@import url('https://joshkoiro.github.io/RemNote-Theme/ipadStyle.css');
-
 /*Remove all Scrollbars*/
 div::-webkit-scrollbar {
 	opacity:0;
