@@ -1,0 +1,44 @@
+/*IPAD 3 Setup*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+
+div.rem-text {
+	font-size:20px!important;
+	font-weight:500;
+	
+}
+
+div #hierarchy-editor.HierarchyEditorChildrenList {
+	font-size:18px!important;
+}
+
+div#hierarchy-editor-toolbar-container {
+	font-size:10px!important;
+}
+
+#document {
+	width:80%;
+}
+
+#hierarchy-editor .rem-container {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.rem-text {
+	margin-left:15px;
+}
+
+.rem-bullet.rem-bullet--hidden-children {
+	width:0.75em!important;
+	height:0.75em!important;
+	margin:0;
+	padding:0;
+}
+
+.rem-bullet__container > rem-bullet.rem-bullet--hidden-children {
+	width:1em!important;
+	height:1em!important;	
+}
+}
