@@ -592,6 +592,10 @@ div::-webkit-scrollbar {
         display:none;
     }
 
+    #hierarchy-editor #hierarchy-editor-list__sticky-top__container .rem {
+        max-height:fit-content;
+    }
+
     /* Top */
 
     #document-parents .parent-link {
