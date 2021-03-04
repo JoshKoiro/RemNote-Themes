@@ -5,12 +5,12 @@ My Custom Themes for RemNote. These are fairly complete, but still may have some
 The first theme in this repo is a dark theme for RemNote based on the original theme created at https://github.com/ethomasv/RemNoteTheme
 
 
-![Bat Theme](https://github.com/JoshKoiro/RemNote-Theme/blob/main/screenshots/darkTheme.png)
+![Bat Theme](https://github.com/JoshKoiro/RemNote-Themes/blob/main/screenshots/darkTheme.png)
 
 ### Installation
 Paste the follow code into a new blank CSS block on the Custom CSS page of your RemNote to get the latest updates:
 
-`@import url('https://joshkoiro.github.io/RemNote-Theme/batTheme.css');`
+`@import url('https://joshkoiro.github.io/RemNote-Themes/batTheme.css');`
 
 If you would like to customize the css variables copy the code below and modify as required. Do not delete the !important keywords so they override the values defined in the base css style.
 ```
@@ -54,7 +54,7 @@ The second theme is a light style based heavily on Roam Research's base theme.
 ### Installation
 Paste the follow code into a new blank CSS block on the Custom CSS page of your RemNote to get the latest updates:
 
-`@import url('https://joshkoiro.github.io/RemNote-Theme/lightStyle.css');`
+`@import url('https://joshkoiro.github.io/RemNote-Themes/lightStyle.css');`
 
 If you would like to customize the css variables copy the code below and modify as required. Do not delete the !important keywords so they override the values defined in the base css style.
 uncomment and replace the @import link to modify the font face.
@@ -105,6 +105,6 @@ uncomment and replace the @import link to modify the font face.
 
 ## IPad Version
 If you are planning to use RemNote on an iPad or tablet device, I also created a modification to the two themes here:
-`@import url('https://joshkoiro.github.io/RemNote-Theme/ipadStyle.css');`
+`@import url('https://joshkoiro.github.io/RemNote-Themes/ipadStyle.css');`
 Create another blank CSS block in remnote and paste this in under your main dark/light theme.
 This is currently a work in progress and I will be continuing to update this as I have time.
