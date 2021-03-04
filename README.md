@@ -1,4 +1,4 @@
-# RemNote-Theme
+# RemNote-Themes
 My Custom Themes for RemNote. These are fairly complete, but still may have some missing styles for certain parts of RemNote. Feel free to submit an issue if you come across any problems.
 
 ## BatTheme for RemNote
