@@ -653,7 +653,7 @@ div::-webkit-scrollbar {
     }
 
     #hierarchy-editor #hierarchy-editor-list__sticky-top__container .rem {
-        max-height: fit-content;
+        max-height: fit-content!important;
         padding-bottom:5px;
     }
 
