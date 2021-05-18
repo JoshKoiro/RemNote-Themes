@@ -502,6 +502,11 @@ div::-webkit-scrollbar {
         font-size: 12px;
     }
 
+    /* Top Bar*/
+    .navigation-bar{
+        background-color: var(--main-background-c);
+    }
+
     /* Documents List */
     
     .ReactVirtualized__Table__headerRow {   
